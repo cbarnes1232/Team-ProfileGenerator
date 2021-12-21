@@ -1,0 +1,20 @@
+{
+  "name": "Team-ProfileGenerator",
+  "version": "1.0.0",
+  "description": "This homework assignment is a Team Profile Generator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbarnes1232/Team-ProfileGenerator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbarnes1232/Team-ProfileGenerator/issues"
+  },
+  "homepage": "https://github.com/cbarnes1232/Team-ProfileGenerator#readme"
+}
